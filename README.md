@@ -37,15 +37,19 @@ Notable Projects:
 Cyber Security Simulation Platform: A tool for real-time threat counteraction and learning.
 Lunch Time Web App: An AI-driven occupancy tracker for dining halls, built with React and PyTorch.
 Movie Recommendation Aggregator: A machine learning-based recommendation system in C++.
+
 :dart: Current Focus
+
 Currently Learning:
 
 Advanced AI and Machine Learning techniques.
 Enhancing skills in Docker and Weaviate.
+
 Current Projects:
 
 Developing a meal planning app using Flutter.
 Building a Docker-based Weaviate model for document queries.
+
 :computer: Tech Stack
 
 :wrench: Tools & Platforms
