@@ -1,6 +1,3 @@
-Hey there! I'm Piam Parekh
-:wave: About Me
-Hello! I'm Piam, a passionate Computer Science student and tech enthusiast.
 
 ### Hey there! I'm Piam Parekh
 -----
