@@ -4,6 +4,8 @@
 
 # :wave: About Me
 Hello! I'm Piam, a passionate Math student and tech enthusiast.
+
+
 *NOTE* : Due to some previous issues regarding stealing code, not all my repos are public but I would love to show any of my projects upon request:)
 ```python
 class PiamParekh:
