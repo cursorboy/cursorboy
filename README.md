@@ -10,7 +10,7 @@ Hello! I'm Piam, a passionate Math student and tech enthusiast.
 ```python
 class PiamParekh:
     def __init__(self):
-        self.age = 20
+        self.age = 21
         self.traits = ["curious", "analytical", "problem-solver"]
         self.hobbies = ["Hacking Challenges", "Teaching Kids", "Creating Cool Projects", "Exploring New Tech"]
 
@@ -47,10 +47,6 @@ Currently Learning:
 Advanced AI and Machine Learning techniques.
 Enhancing skills in Docker and Weaviate.
 
-Current Projects:
-
-Developing a meal planning app using Flutter.
-Building a Docker-based Weaviate model for document queries.
 
 :computer: Tech Stack
 
