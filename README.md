@@ -2,7 +2,7 @@
 Hey there! I'm Piam Parekh
 -----
 
- :wave: About Me
+ About Me
 Hello! I'm Piam, a passionate Math student and tech enthusiast.
 
 
@@ -23,7 +23,7 @@ class PiamParekh:
 ```
 My coding journey began when I was 11, starting with Scratch and advancing to Python and Java. I developed my first cybersecurity tool at 14, participated in numerous hackathons, and dived into machine learning and web development. I'm always eager to learn and innovate!
 
-:briefcase: Experience & Projects
+ Experience & Projects
 Internships:
 
 Developed a data leak prevention app and optimized server security at a cybersecurity startup.
@@ -40,7 +40,7 @@ Cyber Security Simulation Platform: A tool for real-time threat counteraction an
 Lunch Time Web App: An AI-driven occupancy tracker for dining halls, built with React and PyTorch.
 Movie Recommendation Aggregator: A machine learning-based recommendation system in C++.
 
-:dart: Current Focus
+ Current Focus
 
 Currently Learning:
 
@@ -48,11 +48,8 @@ Advanced AI and Machine Learning techniques.
 Enhancing skills in Docker and Weaviate.
 
 
-:computer: Tech Stack
 
-:wrench: Tools & Platforms
-
-:bulb: Get in Touch
+ Get in Touch
 Feel free to connect with me for collaboration or just to chat about tech!
 Email: piamparekh17@gmail.com
 Phone: (510)-509-8139
