@@ -3,10 +3,9 @@ Hey there! I'm Piam Parekh
 -----
 
  About Me
-Hello! I'm Piam, a passionate Math student and tech enthusiast.
+Hello! I'm Piam, a passionate Math student.
 
 
-*NOTE* : Due to some previous issues regarding stealing code, not all my repos are public but I would love to show any of my projects upon request:)
 ```python
 class PiamParekh:
     def __init__(self):
@@ -24,7 +23,12 @@ class PiamParekh:
 My coding journey began when I was 11, starting with Scratch and advancing to Python and Java. I developed my first cybersecurity tool at 14, participated in numerous hackathons, and dived into machine learning and web development. I'm always eager to learn and innovate!
 
  Experience & Projects
-Internships:
+Internships / Work Experience 
+
+Founding Engineer @ TeachShare Ai 
+
+Interned @ DoorDash 
+
 
 Developed a data leak prevention app and optimized server security at a cybersecurity startup.
 Built encryption tools and scanned for data leaks at ZScaler.
