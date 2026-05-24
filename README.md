@@ -56,6 +56,4 @@ Enhancing skills in Docker and Weaviate.
  Get in Touch
 Feel free to connect with me for collaboration or just to chat about tech!
 Email: piamparekh17@gmail.com
-Phone: (510)-509-8139
 
-Thank you for visiting my GitHub profile! Keep exploring and coding! 
